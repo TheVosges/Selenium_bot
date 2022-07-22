@@ -1,0 +1,11 @@
+Pillow
+selenium==4.2.0
+webdriver-manager
+PySimpleGUI
+xlwings
+pandas
+pyexcel
+keyboard
+pyexcel-xls
+pyexcel-xlsx
+pyexcel-xlsxw
